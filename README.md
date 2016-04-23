@@ -8,4 +8,5 @@ Go solutions to leetcode.com problems.
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Go](problems/1.TwoSum/twosum.go) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](problems/2.AddTwoNumbers/add_two_numbers.go) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](problems/1.TwoSum/twosum.go) |
