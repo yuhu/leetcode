@@ -12,6 +12,7 @@ Go solutions to leetcode.com problems.
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Go](problems/345.ReverseVowels/) | Easy |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](problems/344.ReverseString/) | Easy |
 |343| [Integer Break](https://leetcode.com/problems/integer-break/) | [Go](problems/343.IntegerBreak/) | Medium |
+|342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Go](problems/342.PowerOfFour/) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](problems/7.ReverseInt/) | Easy |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](problems/6.ZigZag/) | Easy |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](problems/5.PalindromicSubstr/) | Medium |
