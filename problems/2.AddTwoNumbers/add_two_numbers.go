@@ -1,5 +1,6 @@
 package addtwonumbers
 
+// ListNode represents the linked list's node type.
 type ListNode struct {
 	Val  int
 	Next *ListNode

@@ -8,6 +8,7 @@ Go solutions to leetcode.com problems.
 
 | # | Title | Solution |
 |---| ----- | -------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](problems/1.TwoSum/twosum.go) |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](problems/2.AddTwoNumbers/add_two_numbers.go) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](problems/5.PalindromicSubstr/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Go](problems/3.LongestSubstr/) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](problems/2.AddTwoNumbers/) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](problems/1.TwoSum/) |
