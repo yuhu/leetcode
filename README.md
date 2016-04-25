@@ -11,6 +11,7 @@ Go solutions to leetcode.com problems.
 |---| ----- | -------- |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Go](problems/345.ReverseVowels/) |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](problems/344.ReverseString/) |
+|343| [Integer Break](https://leetcode.com/problems/integer-break/) | [Go](problems/343.IntegerBreak/) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](problems/7.ReverseInt/) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](problems/6.ZigZag/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](problems/5.PalindromicSubstr/) |
