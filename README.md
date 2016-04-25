@@ -3,6 +3,8 @@
 [![ReportCard](https://goreportcard.com/badge/github.com/yuhu/leetcode)](https://goreportcard.com/report/github.com/yuhu/leetcode)
 
 # leetcode
+
+[![Join the chat at https://gitter.im/yuhu/leetcode](https://badges.gitter.im/yuhu/leetcode.svg)](https://gitter.im/yuhu/leetcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Go solutions to leetcode.com problems.
 
 | # | Title | Solution |
