@@ -8,6 +8,7 @@ Go solutions to leetcode.com problems.
 
 | # | Title | Solution |
 |---| ----- | -------- |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](problems/7.ReverseInt/) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](problems/6.ZigZag/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](problems/5.PalindromicSubstr/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Go](problems/3.LongestSubstr/) |
