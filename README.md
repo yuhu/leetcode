@@ -8,6 +8,7 @@ Go solutions to leetcode.com problems.
 
 | # | Title | Solution |
 |---| ----- | -------- |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](problems/6.ZigZag/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Go](problems/5.PalindromicSubstr/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Go](problems/3.LongestSubstr/) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](problems/2.AddTwoNumbers/) |

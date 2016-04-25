@@ -2,8 +2,8 @@ package palindromicsubstr
 
 func palindrome(s string, left int, right int) string {
 	for s[left] == s[right] {
-		left -= 1
-		right += 1
+		left--
+		right++
 		if left < 0 || right >= len(s) {
 			break
 		}
