@@ -15,7 +15,7 @@ func (b byFreq) Less(i, j int) bool {
 func topKFrequent(nums []int, k int) []int {
 	freq := make(map[int]int)
 	for _, n := range nums {
-		freq[n] += 1
+		freq[n]++
 	}
 	var elems []elem
 	for n, f := range freq {

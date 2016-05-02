@@ -14,6 +14,7 @@ Go solutions to leetcode.com problems.
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](problems/344.ReverseString/) | Easy |
 |343| [Integer Break](https://leetcode.com/problems/integer-break/) | [Go](problems/343.IntegerBreak/) | Medium |
 |342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Go](problems/342.PowerOfFour/) | Easy |
+|274| [H-Index](https://leetcode.com/problems/h-index/) | [Go](problems/274.H-Index/) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](problems/9.PalindromeNumber/) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](problems/7.ReverseInt/) | Easy |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](problems/6.ZigZag/) | Easy |
