@@ -9,6 +9,7 @@ Go solutions to leetcode.com problems.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Go](problems/347.TopKFreq) | Medium |
 |345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Go](problems/345.ReverseVowels/) | Easy |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](problems/344.ReverseString/) | Easy |
 |343| [Integer Break](https://leetcode.com/problems/integer-break/) | [Go](problems/343.IntegerBreak/) | Medium |
