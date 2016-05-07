@@ -16,6 +16,7 @@ Go solutions to leetcode.com problems.
 |342| [Power of Four](https://leetcode.com/problems/power-of-four/) | [Go](problems/342.PowerOfFour/) | Easy |
 |275| [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Go](problems/275.H-Index2/) | Medium |
 |274| [H-Index](https://leetcode.com/problems/h-index/) | [Go](problems/274.H-Index/) | Medium |
+|100| [Same Tree](https://leetcode.com/problems/same-tree/) | [Go](problems/100.SameTree/) | Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](problems/9.PalindromeNumber/) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](problems/7.ReverseInt/) | Easy |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](problems/6.ZigZag/) | Easy |
